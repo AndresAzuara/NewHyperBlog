@@ -1,10 +1,10 @@
-<<<<<<< HEAD
 Este es el archivo inicial acerca de la biografía de Andrés Azuara, comencemos.
 Capítulo 1. Nacimiento
 Andrés nació en Guadalajara, Jalisco el 8 de julio de 1998.
 Andrés nació en la clínica ubicada en la 8 de julio y ademas vivía en la av. 8 de julio.
-=======
+
 Esta es la biografía de Andrés Azuara
 Dentro de este documento encontrarás todo acerca de su vida.
 El día de mañana comenzaremos a contar la historia acerca de Andrés
->>>>>>> 5a7971591555080b3796b136cd7bd478cd1e21b0
+
+Esto es para probar acerca de las referencias
